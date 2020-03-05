@@ -1,0 +1,16 @@
+header {
+  background: #333333;
+}
+header h1 {
+  color: #FFF;
+  font-size: 40px;
+}
+header p {
+  color: #FFF;
+}
+.topimg {
+  width: 100%;
+}
+.whichimg {
+  width: 40%;
+}

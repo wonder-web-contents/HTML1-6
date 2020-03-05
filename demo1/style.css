@@ -1,0 +1,59 @@
+body {
+  background: #FFF;
+  text-align: center;
+}
+header img {
+  max-width: 8vw;
+}
+header h1 {
+  font-size: 4vw;
+  text-align: left;
+}
+header h1 a{
+  color: inherit;
+  text-decoration: none;
+}
+header p {
+
+}
+header p a {
+  background: #dd2244;
+  color: #FFF;
+  font-size: 4vw;
+}
+div.salmon {
+  width: 100%;
+  height: 60vw;
+  background: url(https://cdn.glitch.com/26778efc-4556-4ab2-9ee6-6029fcb057cf%2Fsalmon.jpg?v=1568883257742) no-repeat;
+  background-size: 100%;
+}
+div.canapes {
+  width: 100%;
+  height: 60vw;
+  background: url(https://cdn.glitch.com/26778efc-4556-4ab2-9ee6-6029fcb057cf%2Fsalmon2.jpg?v=1568885047580) no-repeat;
+  background-size: 100%;
+}
+div.misosoup {
+  width: 100%;
+  height: 60vw;
+  background: url(https://cdn.glitch.com/26778efc-4556-4ab2-9ee6-6029fcb057cf%2Fmisosoup.jpg?v=1568885030502) no-repeat;
+  background-size: 100%;
+}
+div.sushi {
+  width: 100%;
+  height: 60vw;
+  background: url(https://cdn.glitch.com/26778efc-4556-4ab2-9ee6-6029fcb057cf%2Fsushi.jpg?v=1568885581580) no-repeat;
+  background-size: 100%;
+}
+div.shio {
+  width: 100%;
+  height: 60vw;
+  background: url(https://cdn.glitch.com/26778efc-4556-4ab2-9ee6-6029fcb057cf%2Fsaba.jpg?v=1568885031679) no-repeat;
+  background-size: 100%;
+}
+
+.type2 {
+  width: 70vw!important;
+  height: calc( 70vw / 10 * 6 )!important;
+  margin: 0 auto;
+}
